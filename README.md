@@ -43,7 +43,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Authors
 
-Both engines were written by the mighty Kev Brady / 9bicolor.
+Both engines were written by the mighty Kev Brady / 9bitcolor.
 
 
 
