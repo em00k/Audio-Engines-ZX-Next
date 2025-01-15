@@ -1,6 +1,6 @@
 # Audio-Engines-ZX-Next
 
-Audio engines for playing samples on the ZX Spectrum Next by Kev Brady / 9bicolor.
+Audio engines for playing samples on the ZX Spectrum Next by Kev Brady / 9bitcolor.
 
 ## Overview
 
